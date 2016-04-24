@@ -1,0 +1,15 @@
+{
+  "name": "sparkpost_lambda",
+  "version": "1.0.0",
+  "description": "An AWS Lambda function to handle requests from an HTML contact form using SparkPost to handle e-mail.",
+  "main": "index.js",
+  "dependencies": {
+    "sparkpost": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Johnson",
+  "license": "BSD-3-Clause"
+}
