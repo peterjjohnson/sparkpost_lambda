@@ -2,7 +2,7 @@
 // i.e. API keys and e-mail addresses
 var Settings  = require('settings');
 
-// We're using SparkPost to handling sending the e-mail
+// We're using SparkPost to handle sending the e-mail
 var SparkPost = require('sparkpost');
 
 var config = new Settings();
